@@ -1,9 +1,8 @@
 # Investigate Titanic dataset
 
-Here I have Titanic dataset with its describe  and I try to explore it to see
-
+Here I have Titanic dataset with its describe https://www.kaggle.com/c/titanic/data
+and I try to explore it to see
 What factors made people more likely to survive
-
 ## Age Factor
 ![alt text](https://github.com/Mogady/udacity-data-analysis-nanodegree/blob/master/Titanic_investigation/age.png)
 
