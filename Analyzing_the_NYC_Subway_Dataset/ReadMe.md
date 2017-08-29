@@ -23,7 +23,7 @@ The means of the two samples suggest that ridership increases when it is raining
 ##2. Linear regression
 
 ####2.1 What approach did you use to compute the coefficients theta and produce prediction for ENTRIESn_hourly in your regression model: 
-OLS using Statsmodels
+Gradient descent
 
 ####2.2 What features (input variables) did you use in your model? Did you use any dummy variables as part of your features?
 
