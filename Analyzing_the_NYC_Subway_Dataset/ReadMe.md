@@ -37,7 +37,8 @@ meanpressurei    -328.596009
 
 R^2: 0.45756136309528872
 ####2.6 What does this R2 value mean for the goodness of fit for your regression model? Do you think this linear model to predict ridership is appropriate for this dataset, given this R2 value? 
-R^2 value is 0.45  which mean 45% of the variation explanied by this model which mean this model is appropriate for this dataset
+R^2 value is 0.45  which mean 45% of the variation explanied by this model 
+This distribution is ~ normal, histograms have limitations. A plot residuals vs. predictions, fit to a trend line, reveals that residuals increase as a function of predicted value. Clearly structure exists that is not accounted for by our model.
 
 ##3. Visualization
 In the Ipynb file
